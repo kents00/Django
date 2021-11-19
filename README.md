@@ -59,5 +59,3 @@ Admin:
 
 Testing:
 - django-nose
-
-if you're bored of typing your environment's name, use [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/install.html) instead of Virtualenv.
