@@ -45,7 +45,7 @@ This project template comes with the following features by default:
 
 Templates:
 - django_compressor for javascript/css/less/sass compression
-- whitenoise own static files will be served
+- whitenoise allows web app to serve its own static files
 
 Security:
 - argon2-cffi for password hashing default configuration
