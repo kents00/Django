@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ```
 # Deploying on Local Server
 ``` 
-python manage.py
+python manage.py runserver
 ``` 
 # What are the Features?
 **django-environ** 
