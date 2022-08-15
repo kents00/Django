@@ -24,7 +24,7 @@ This is the folder where the files are stored.
 ```
 
 # Installation
-- We need a virtual environment for our project to build up the environment. [click here](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/) install virtual environment
+- We need a virtual environment for our project to build up the environment.
 ```
 virtualenv env
 ```
