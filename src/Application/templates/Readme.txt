@@ -10,7 +10,6 @@ This is the folder where the files are stored.
     |   │   ├── base.html # This is our header and footer, all css and js are in here
     │   ├── layout 
     |   │   ├── main.html # This is our front page
-    |   │   ├── navbar.html # This is our navbar
     ├── Config # This is where we store our settings files
     │   ├── settings.py # This is where we store our settings
     │   ├── local.py # This is where we store our production settings
