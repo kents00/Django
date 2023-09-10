@@ -74,19 +74,20 @@
 }
 .teleport-show {
   display: flex !important;
+  transform: none !important;
 }
-.content {
-  font-size: 16px;
+.Heading {
+  font-size: 32px;
   font-family: Inter;
-  font-weight: 400;
+  font-weight: 700;
   line-height: 1.15;
   text-transform: none;
   text-decoration: none;
 }
-.heading {
-  font-size: 32px;
+.Content {
+  font-size: 16px;
   font-family: Inter;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.15;
   text-transform: none;
   text-decoration: none;

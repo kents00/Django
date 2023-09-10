@@ -25,9 +25,7 @@ django-compressor==4.0
     # via -r requirements.in
 django-debug-toolbar==3.4.0
     # via -r requirements.in
-django-environ==0.8.1
-    # via django-environ-2
-django-environ-2==2.3.0
+django-environ==0.11.2
     # via -r requirements.in
 django-nose==1.4.7
     # via -r requirements.in
