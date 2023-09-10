@@ -1,0 +1,30 @@
+{% include ".base/base.html" %}
+{% load static %}
+{% block content %}
+<div class="home-container">
+    <div class="home-container1">
+      <a
+        href="https://www.reddit.com/r/PixelArt/comments/wc41cr/oc_bathed_in_light/?utm_source=share&amp;utm_medium=web2x&amp;context=3"
+        target="_blank"
+        rel="noreferrer noopener"
+        class="home-link"
+      >
+        <img
+          alt="image"
+          src="{% static 'css/images/art.png' %}"
+          class="home-image"
+        />
+      </a>
+      <span class="home-text">
+        <span>
+          High-level Python web framework Django promotes quick development
+          and streamlined, practical design. It was created by seasoned
+          programmers and handles a lot of the hassle associated with web
+          development, freeing you up to concentrate on building your app
+          without having to invent the wheel.
+        </span>
+        <br />
+      </span>
+    </div>
+</div>
+{% endblock %}
